@@ -42,9 +42,10 @@ I inserted dummy data into each table for customers, orders, products, and order
 🔹 SQL Operations Performed
 1. Basic Queries
 Used SELECT, WHERE, ORDER BY to filter and sort customer data
+
 ✅ Example: Get all customers from India ordered by name.
 
-2. Aggregations with GROUP BY
+3. Aggregations with GROUP BY
 Counted customers per country
 
 Calculated SUM and AVG of order amounts per customer
