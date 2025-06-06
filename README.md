@@ -35,6 +35,7 @@ View: order_summary
 
 ✅ Work Done
 🔹 Data Insertion
+
 I inserted dummy data into each table for customers, orders, products, and order details to simulate an e-commerce business scenario.
 
 🔹 SQL Operations Performed
